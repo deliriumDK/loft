@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+    <AdminStuff id="1">
+        <firstname>you</firstname>
+        <lastname>tube</lastname>
+        <nickname>video</nickname>
+        <salary>50000</salary>
+    </AdminStuff>
+    <AdminStuff id="2">
+        <firstname>yong</firstname>
+        <lastname>mook kin</lastname>
+        <nickname>mkyong</nickname>
+        <salary>100000</salary>
+    </AdminStuff>
+    <ProductStuff id="1">
+        <firstname>git</firstname>
+        <lastname>hub</lastname>
+        <nickname>githubber</nickname>
+        <salary>130000</salary>
+    </ProductStuff>
+</company>

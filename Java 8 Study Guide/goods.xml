@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<market>
+    <Goods>
+        <SerialNumber id="1">
+            <name>rice</name>
+            <price>60</price>
+            <amount>100</amount>
+            <provider>RUS</provider>
+        </SerialNumber>
+        <SerialNumber id="2">
+            <name>spagetti</name>
+            <price>40</price>
+            <amount>70</amount>
+            <provider>ITA</provider>
+        </SerialNumber>
+        <SerialNumber id="3">
+            <name>potatos</name>
+            <price>35</price>
+            <amount>90</amount>
+            <provider>BEL</provider>
+        </SerialNumber>
+        <SerialNumber id="4">
+            <name>bonaqua</name>
+            <price>67</price>
+            <amount>260</amount>
+            <provider>RUS</provider>
+        </SerialNumber>
+        <SerialNumber id="5">
+            <name>cola</name>
+            <price>74</price>
+            <amount>300</amount>
+            <provider>RUS</provider>
+        </SerialNumber>
+        <SerialNumber id="6">
+            <name>salmo</name>
+            <price>240</price>
+            <amount>30</amount>
+            <provider>NOR</provider>
+        </SerialNumber>
+        <SerialNumber id="7">
+            <name>jim bim</name>
+            <price>870</price>
+            <amount>25</amount>
+            <provider>USA</provider>
+        </SerialNumber>
+        <SerialNumber id="8">
+            <name>jameson</name>
+            <price>1130</price>
+            <amount>20</amount>
+            <provider>GB</provider>
+        </SerialNumber>
+        <SerialNumber id="9">
+            <name>red lable</name>
+            <price>970</price>
+            <amount>35</amount>
+            <provider>GB</provider>
+        </SerialNumber>
+        <SerialNumber id="10">
+            <name>bacardi</name>
+            <price>1350</price>
+            <amount>20</amount>
+            <provider>USA</provider>
+        </SerialNumber>
+    </Goods>
+</market>
